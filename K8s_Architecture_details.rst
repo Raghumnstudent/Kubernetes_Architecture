@@ -1,5 +1,5 @@
 ==============================================
-Kubernetes have master and worker artitecture.
+Kubernetes have master and worker architecture.
 ==============================================
 
 Components in worker node:
